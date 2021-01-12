@@ -107,4 +107,4 @@ Since this selector has an ID selector, we put a 1 in the hundreds position, end
 
 According to the definition from above, the ID selector wins in precedence because it has a higher specificity value.
 
-In summary, Cascade is a key concept in CSS. Cascade is a way to determine which styles actually take affect when you have conflicting styles. Specificity is a key part of the Cascade but so is inheritance and origin of the stylesheet. I will take about those in a later blog post. With a solid understanding of how Cascade works, an engineer can troubleshoot CSS bugs with no trouble.
+In summary, Cascade is a key concept in CSS. Cascade is a way to determine which styles actually take affect when you have conflicting styles. Specificity is a key part of the Cascade but so is inheritance and origin of the stylesheet. I will talk about those in a later blog post. With a solid understanding of how Cascade works, an engineer can troubleshoot CSS bugs with no trouble.
